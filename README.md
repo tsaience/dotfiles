@@ -1,2 +1,2 @@
 # dotfiles
-Collection of dotfiles, configured somewhat to my personal preferencec.
+Collection of dotfiles, configured somewhat to my personal preferences.
